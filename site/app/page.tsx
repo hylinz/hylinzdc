@@ -11,9 +11,9 @@ export default function Home() {
       </span>
       <a
         className="text-blue-600 underline"
-        href="mailto:martin@hylinz.com"
+        href="mailto:martin.carlsson@hylins.com"
       >
-        martin@hylinz.com
+        martin.carlsson@hylins.com
       </a>
     </div>
   </div>
